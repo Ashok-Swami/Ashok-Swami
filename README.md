@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ashok Swami
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Terraform+%7C+Docker+%7C+Jenkins;Python+Automation;CI%2FCD+Engineer;Cloud+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+%7C+GCP+%7CAzure+%7C+Kubernetes;Terraform+%7C+Docker+%7C+Jenkins;Python+Automation;CI%2FCD+Engineer;Cloud+Infrastructure" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Ashok%20Swami&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 
